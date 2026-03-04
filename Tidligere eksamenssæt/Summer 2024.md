@@ -37,9 +37,12 @@ Nodes are connected to other nodes as either left or right node.
 Provide an answer to each the following:
 
 ### 1. Is search a recursive or an iterative function? Explain why.
+An iterative function since there is no recursive calls AKA no self-calls. The function does not call itself at any point.
 
 
 ### 2. Argue what the worst-case time complexity (Big-O) of search is?
+The worst case is O(n). 
+// BEDRE BEGRUNDELSE HER. Har ikke fået undervisning i BST endnu (4/3).
 
 ### 3. Describe the worse case scenarios for the complexity proposed above
 
