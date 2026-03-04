@@ -1,0 +1,21 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+*.obj
+build/
+
+# IDE folders
+.vs/
+.idea/
+*.suo
+*.user
+
+# Archives
+*.zip
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
